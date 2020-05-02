@@ -1,5 +1,8 @@
 _repo: Le-francais-tel-que-le-parlent-nos-tirailleurs-senegalais_61961
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61961-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61961#Le-francais-tel-que-le-parlent-nos-tirailleurs-senegalais
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Langues
